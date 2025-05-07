@@ -6,6 +6,6 @@ app=Flask(__name__)
 
 def webout():
 
- return '<h1>Apurwa sir is training us.</h1>'
+ return '<h1>Apurwa sir is teaching devops to us.</h1>'
 
 app.run(host='0.0.0.0',port=7000)
